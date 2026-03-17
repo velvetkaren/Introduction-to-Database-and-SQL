@@ -1,6 +1,7 @@
 #Certificates
 
-Introduction-to-Database-and-SQL
+1. Introduction-to-Database-and-SQL
+
 Introduction to the basics of how SQL solutions can be formulated  
 Learned the steps for MySQL installation on MacOS and Windows  
 Understand how to SELECT and manipulate specific data from tables using keywords like SELECT, LIMIT, DISTINCT, INSERT, UPDATE, and DELETE  
